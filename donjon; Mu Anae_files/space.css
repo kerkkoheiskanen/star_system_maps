@@ -1,0 +1,15 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* space.css
+ *
+ * copyright (c) 2006-2009 drow <drow@bin.sh>
+ * all rights reserved.
+*/
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* content */
+
+body { background-image: url('https://donjon.bin.sh/style/space.gif');
+       color: #FFFFFF; }
+a { color: #FFFFFF; }
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */

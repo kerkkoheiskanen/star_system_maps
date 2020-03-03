@@ -1,0 +1,22 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* stats_rev.css
+ *
+ * copyright (c) 2006-2011 drow <drow@bin.sh>
+ * all rights reserved.
+*/
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/* stat block */
+
+table.stats { border-color: #333333;
+  background: rgba(0,0,0,0.8); }
+table.stats table { border-color: #333333; }
+table.stats tr:hover td { background: #222222; }
+table.stats tr:hover ol li:hover { background: #000000; }
+table.stats tr:hover table tr:hover td { background: #000000; }
+table.stats tr:hover table tr:hover ol li:hover { background: #222222; }
+table.stats td { border-color: #333333; }
+table.stats td.icon img { border-color: #333333; }
+table.stats td.value hr { border-color: #CCCCCC; }
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
